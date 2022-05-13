@@ -8,7 +8,7 @@ Faculty : Prof. Allen Riddell (Indiana University)
 Project Title : Voice of Customer - a text mining application to understand the opinions of cellphone users in the 
 US market
 
-Author : Abhinav Bajpai (abbajpai@iu.edu)| Department of Data Science| Indiana University – Bloomington
+Author : Abhinav Bajpai (abbajpai@iu.edu) | Department of Data Science | Indiana University – Bloomington
 **********************************************************************************************************************
 
 *** Abstract****
