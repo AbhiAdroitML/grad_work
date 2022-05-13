@@ -1,6 +1,4 @@
 
-************************************************ Project Submission **************************************************
-
 Course : FA21: SOCIAL MEDIA MINING: 17635
 
 Faculty : Prof. Allen Riddell (Indiana University)
@@ -9,9 +7,10 @@ Project Title : Voice of Customer - a text mining application to understand the 
 US market
 
 Author : Abhinav Bajpai (abbajpai@iu.edu) | Department of Data Science | Indiana University – Bloomington
+
 **********************************************************************************************************************
 
-*** Abstract****
+**Abstract**
 
 Voice of Customer can be captured to gain insights into what customers value, to improve product design,to understand 
 competitive landscapes and to penetrate markets deeper. In this paper, we analyze a large sample of reviews on the 
