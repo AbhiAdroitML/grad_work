@@ -4,7 +4,7 @@ Faculty : Prof. Donald S. Williamson (Indiana University)
 
 Project Title : MACHINE LEARNING FOR IMBALANCED DATASET: PREDICTING COMPANY BANKRUPTCY
 
-Author : Abhinav Bajpai (abbajpai@iu.edu), Saranjeet Singh Saluja (sasalu@iu.edu), Adit Sadiwala (asadiwal@iu.edu)| Department of Data Science 
+Author : Abhinav Bajpai (abbajpai@iu.edu), Saranjeet Singh Saluja (sasalu@iu.edu), Adit Sadiwala (asadiwal@iu.edu) | Department of Data Science 
 | Indiana University – Bloomington
 
 Abstract
