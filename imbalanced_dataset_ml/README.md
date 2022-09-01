@@ -7,7 +7,9 @@ Project Title : MACHINE LEARNING FOR IMBALANCED DATASET: PREDICTING COMPANY BANK
 Author : Abhinav Bajpai (abbajpai@iu.edu), Saranjeet Singh Saluja (sasalu@iu.edu), Adit Sadiwala (asadiwal@iu.edu) | Department of Data Science 
 | Indiana University – Bloomington
 
-Abstract
+*********************************************************************************************************************
+
+**Abstract**
 
 When modeling credit risk, a major concern is the class imbalance in the dataset used. In the case of a dataset with default or no-default assignment 
 for companies, there is class imbalance when one class is considerably larger than the other. Generally, we observe fewer default class assignments 
