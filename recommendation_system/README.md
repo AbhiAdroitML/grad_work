@@ -1,11 +1,12 @@
-Course : Spring 22: Network Analysis: INFO I606
+Course : Fall 22: Deep Learning System: ENGR E533
 
-Faculty : Prof. Yong-Yeol (Indiana University)
+Faculty : Prof. Henry Choi (Indiana University)
 
-Project Title : A Network Analysis Approach to Detect Collusive Fraud in Procurement Process
+Project Title : GRAPH NEURAL NETWORK APPLICATION: BOOK RECOMMENDATION SYSTEM
 
 Author : Abhinav Bajpai (abbajpai@iu.edu) | Department of Data Science | Indiana University – Bloomington
 
 Abstract
 
-Collusive fraud occurs when organizations or individuals work together to circumvent legal processes and procedures. Often these relation-ships are hidden behind layers of transactions that are difficult to detect. Recent developments in network science allow us to take a fresh look at collusive fraud. In this study, we apply OddBall to detect outliers in a procurement da-taset and also test whether node embeddings and role embeddings can be used as features by machine learning algorithms to identify collu-sion. We create a new network dataset from a large sample of World Bank procurement con-tracts between 2001 and 2021 for our experi-mentation. The network dataset has different World Bank entities, borrower countries and suppliers as nodes and awarded contracts as edges. The edges are weighted by contract amount. We also compared our results with the list of suppliers barred from doing business with the World Bank for engaging in various fraudulent activities in order to evaluate the success of our experiment.
+With the increased ability to process large datasets through distributed computing, Network science has emerged to provide solutions to some of the existing issues in different domains. By decoding the interactions between the components of the network, the collective behavior of a system can be studied and visualized in greater depth. Bioscience (genes and proteins), social networks (friends and family), communication networks, power grids, trade networks, and other fields have utilized Network science methodologies with great success and successfully discovered new patterns and knowledge. Our study investigates the interaction between users and products using Graph Neural Networks in order to learn users' usage behavior and suggest products to buy. Our experiments were conducted using the Amazon book open dataset between 2016 and 2017. Both human-centric and metric-based evaluation methods were applied to evaluate two different approaches based on a Unipartite and Bipartite graph.
+
