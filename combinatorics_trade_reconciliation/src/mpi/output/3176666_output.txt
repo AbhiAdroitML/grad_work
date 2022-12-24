@@ -1,0 +1,29 @@
+Unique Combo in range found by iteration=0, rank=17, k=2[-98618.726562, 98618.570312]
+Total combinations found by rank=17, k=2: 2
+Unique Combo in range found by iteration=0, rank=19, k=3[-20709.720703, 14424.849609, 6284.870117]
+Total combinations found by rank=19, k=3: 1
+Unique Combo in range found by iteration=0, rank=9, k=6[2353117.500000, -2308347.000000, 2117875.000000, -1975281.250000, -1950411.000000, 1763047.500000]
+Unique Combo in range found by iteration=0, rank=14, k=6[-414797.406250, -378119.968750, Unique Combo in range found by iteration=0, rank=7, k=6[3913002.250000, -3908057.250000, -3870939.750000377809.718750, 3746345.250000, 3607712.750000, -3488063.000000]
+, 376840.375000, Total combinations found by rank=9, k=6: 1
+361461.937500, -323195.500000]
+Total combinations found by rank=14, k=6: 1
+Total combinations found by rank=7, k=6: 1
+Unique Combo in range found by iteration=0, rank=16, k=8[-174802.625000, -163179.406250, 162948.625000, 162910.406250, -161944.703125, 161302.437500, 155135.875000, -142371.421875]
+Total combinations found by rank=16, k=8: 3
+Total combinations found by rank=17, iteration=0: 2
+Total combinations found by rank=9, iteration=0: 1
+Total combinations found by rank=14, iteration=0: 1
+Total combinations found by rank=16, iteration=0: 3
+Total combinations found by rank=7, iteration=0: 1
+Unique Combo in range found by iteration=0, rank=19, k=5[-23709.939453, 21828.730469, 1876.969971, 1.860000, 1.650000]
+Total combinations found by rank=19, k=5: 4
+Unique Combo in range found by iteration=0, rank=19, k=6[23691.970703, -22275.330078, -21323.029297, 16275.639648, 3629.360107, 1.250000]
+Total combinations found by rank=19, k=6: 12
+Total combinations found by rank=19, k=7: 52
+Total combinations found by rank=19, k=8: 88
+Total combinations found by rank=19, k=9: 198
+Total combinations found by rank=19, k=10: 469
+Total combinations found by rank=19, k=11: 808
+Total combinations found by rank=19, k=12: 1243
+Total combinations found by rank=19, k=13: 1683
+Total combinations found by rank=19, k=14: 1909

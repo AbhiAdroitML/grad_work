@@ -1,0 +1,78 @@
+Unique Combo in range found by iteration=0, rank=8, k=2[-98618.726562, 98618.570312]
+Total combinations found by rank=8, k=2: 2
+Unique Combo in range found by iteration=0, rank=9, k=3[-39560.601562, 39467.019531, 93.589996]
+Unique Combo in range found by iteration=0, rank=9, k=3[-20709.720703, 14424.849609, 6284.870117]
+Total combinations found by rank=9, k=3: 2
+Total combinations found by rank=9, k=4: 1
+Total combinations found by rank=8, k=5: 1
+Unique Combo in range found by iteration=0, rank=9, k=5[-50794.031250, 48595.089844, 21645.330078, -21323.029297, 1876.969971]
+Total combinations found by rank=9, k=5: 8
+Unique Combo in range found by iteration=0, rank=4, k=6[2353117.500000, -2308347.000000, 2117875.000000, -1975281.250000, -1950411.000000, 1763047.500000]
+Unique Combo in range found by iteration=0, rank=5, k=6[1019513.937500, 986323.562500, -954610.937500, -947907.187500, -904594.375000, 801274.562500]
+Unique Combo in range found by iteration=0, rank=6, k=6[-657943.937500, 636011.625000, 520624.406250, -475259.968750, -460274.218750, 436842.250000]
+Unique Combo in range found by iteration=0, rank=3, k=6[3913002.250000, -3908057.250000, -3870939.750000, 3746345.250000, 3607712.750000, -3488063.000000]
+Total combinations found by rank=5, k=6: 2
+Unique Combo in range found by iteration=0, rank=8, k=6[161302.437500, -139284.859375, -127807.921875, 89714.046875, 83446.039062, -67369.812500]
+Total combinations found by rank=4, k=6: 1
+Unique Combo in range found by iteration=0, rank=8, k=6[161309.953125, -146499.406250, 142616.812500, -142371.421875, -89095.468750, 74039.742188]
+Total combinations found by rank=3, k=6: 1
+Total combinations found by rank=8, k=6: 4
+Total combinations found by rank=6, k=6: 1
+Unique Combo in range found by iteration=0, rank=9, k=6[-26532.089844, 23691.970703, 23629.699219, -22275.330078, 3629.360107, -2144.520020]
+Unique Combo in range found by iteration=0, rank=9, k=6[-10821.919922, 10647.179688, 168.520004, 1.860000, 1.860000, 1.650000]
+Total combinations found by rank=9, k=6: 24
+Total combinations found by rank=5, k=7: 1
+Total combinations found by rank=4, k=7: 1
+Total combinations found by rank=8, k=7: 18
+Total combinations found by rank=6, k=7: 1
+Unique Combo in range found by iteration=0, rank=7, k=7[-321230.406250, -304505.125000, 209761.531250, 205886.546875, 198305.859375, 174961.375000, -163179.406250]
+Total combinations found by rank=7, k=7: 4
+Total combinations found by rank=9, k=7: 154
+Unique Combo in range found by iteration=0, rank=2, k=8[-9480716.000000, 8967312.000000, -7622554.500000, 7254137.500000, 6721622.000000, -6480091.500000, 6455036.500000, -5814746.500000]
+Unique Combo in range found by iteration=0, rank=8, k=8[-161944.703125, 139482.125000, -133315.734375, 115459.703125, 98618.593750, 65416.589844, -63976.738281, -59740.601562]
+Unique Combo in range found by iteration=0, rank=5, k=8[-1388488.750000, 1271428.500000, 1162730.125000, -1076043.750000, 1018776.687500, -912531.812500, -894827.812500, 818956.000000]
+Unique Combo in range found by iteration=0, rank=6, k=8[-685094.437500, 656837.500000, -610855.875000, 554117.750000, 516104.468750, 487624.843750, -482313.187500, -436421.250000]
+Unique Combo in range found by iteration=0, rank=4, k=8[-3183148.500000, 3000852.000000, -2803059.250000, 2801721.750000, 2045574.375000, -1966689.750000, 1961746.000000, -1856996.625000]
+Total combinations found by rank=2, k=8: 3
+Total combinations found by rank=3, k=8: 3
+Total combinations found by rank=8, k=8: 79
+Total combinations found by rank=5, k=8: 13
+Total combinations found by rank=6, k=8: 31
+Total combinations found by rank=4, k=8: 4
+Unique Combo in range found by iteration=0, rank=7, k=8[-378119.968750, 377656.000000, -323195.500000, 252184.453125, 227877.734375, 203629.203125, -196560.734375, -163470.812500]
+Total combinations found by rank=7, k=8: 18
+Total combinations found by rank=9, k=8: 505
+Unique Combo in range found by iteration=0, rank=1, k=9[-16454284.000000, 16262284.000000, -16239813.000000, -14610373.000000, -12814654.000000, 12339339.000000, 11260030.000000, 10715263.000000, 9542208.000000]
+Unique Combo in range found by iteration=0, rank=3, k=9[-5740348.500000, -5696477.000000, 5601788.500000, -4990932.500000, 3932341.000000, 3596665.250000, -3411464.750000, 3402792.750000, 3305634.750000]
+Total combinations found by rank=1, k=9: 2
+Unique Combo in range found by iteration=0, rank=2, k=9[8800315.000000, 8527443.000000, 8484754.000000, 8066678.000000, -7530485.500000, -7456188.500000, -7261940.000000, -5873526.000000, -5757050.000000]
+Total combinations found by rank=8, k=9: 197
+Total combinations found by rank=5, k=9: 6
+Total combinations found by rank=2, k=9: 2
+Total combinations found by rank=3, k=9: 3
+Total combinations found by rank=4, k=9: 5
+Total combinations found by rank=6, k=9: 4
+Total combinations found by rank=7, k=9: 19
+Total combinations found by rank=9, k=9: 1680
+Unique Combo in range found by iteration=0, rank=0, k=10[-30923658.000000, 28868386.000000, 22965132.000000, -21781276.000000, 21199382.000000, -20496362.000000, -18247804.000000, 18176272.000000, 18139226.000000, -17899298.000000]
+Unique Combo in range found by iteration=0, rank=5, k=10[1144250.250000, -1046244.125000, -998804.187500, 931065.187500, 895814.187500, -842494.375000, -836662.375000, -757091.187500, 756380.875000, 753785.250000]
+Total combinations found by rank=0, k=10: 6
+Total combinations found by rank=1, k=10: 10
+Total combinations found by rank=8, k=10: 482
+Total combinations found by rank=5, k=10: 89
+Total combinations found by rank=3, k=10: 26
+Total combinations found by rank=2, k=10: 14
+Total combinations found by rank=6, k=10: 178
+Total combinations found by rank=4, k=10: 16
+Total combinations found by rank=7, k=10: 74
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 5433 RUNNING AT c75
+=   EXIT CODE: 9
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+YOUR APPLICATION TERMINATED WITH THE EXIT STRING: Killed (signal 9)
+This typically refers to a problem with your application.
+Please see the FAQ page for debugging suggestions

@@ -1,0 +1,34 @@
+Unique Combo in range found by iteration=0, rank=16, k=2[-98618.726562, 98618.570312]
+Total combinations found by rank=16, k=2: 2
+Unique Combo in range found by iteration=0, rank=18, k=3[-20709.720703, 14424.849609, 6284.870117]
+Total combinations found by rank=18, k=3: 1
+Unique Combo in range found by iteration=0, rank=15, k=8[-196560.734375, 195762.109375, 174961.375000, -163470.812500, -161944.703125, 155135.875000, -146499.406250, 142616.812500]
+Total combinations found by rank=15, k=8: 4
+Unique Combo in range found by iteration=0, rank=18, k=5[21828.730469, -21730.470703, -2144.520020, 1876.969971, 168.520004]
+Total combinations found by rank=18, k=5: 2
+Total combinations found by rank=16, iteration=0: 2
+Unique Combo in range found by iteration=0, rank=13, k=13[487624.843750, -484058.500000, -482313.187500, -475259.968750, -471259.375000, -460274.218750, 436842.250000, -414797.406250, 414399.562500, 377809.718750, 377656.000000, 361461.937500, 332168.218750]
+Total combinations found by rank=13, k=13: 1
+Total combinations found by rank=15, iteration=0: 4
+Total combinations found by rank=13, iteration=0: 1
+Unique Combo in range found by iteration=0, rank=18, k=6[23691.970703, -22275.330078, -21323.029297, 16275.639648, 3629.360107, 1.250000]
+Total combinations found by rank=18, k=6: 9
+Total combinations found by rank=18, k=7: 40
+Total combinations found by rank=18, k=8: 56
+Total combinations found by rank=18, k=9: 121
+Total combinations found by rank=18, k=10: 265
+Total combinations found by rank=18, k=11: 419
+Total combinations found by rank=18, k=12: 618
+Total combinations found by rank=18, k=13: 774
+Total combinations found by rank=18, k=14: 788
+Total combinations found by rank=18, k=15: 821
+Total combinations found by rank=18, k=16: 686
+Total combinations found by rank=18, k=17: 494
+Total combinations found by rank=18, iteration=0: 5094
+Iteration=0 - unique combinations found=6 - New File size=317
+Unique Combo in range found by iteration=1, rank=18, k=8[1763047.500000, -115658.718750, 537035.812500, -10150360.000000, -41635.078125, -436421.250000, -7766724.500000, 16210717.000000]
+Total combinations found by rank=18, k=8: 1
+Total combinations found by rank=18, k=10: 2
+Total combinations found by rank=18, k=11: 1
+Total combinations found by rank=18, k=12: 2
+Total combinations found by rank=18, k=13: 1

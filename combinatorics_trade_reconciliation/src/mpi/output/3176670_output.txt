@@ -1,0 +1,45 @@
+Unique Combo in range found by iteration=0, rank=21, k=2[-98618.726562, 98618.570312]
+Total combinations found by rank=21, k=2: 2
+Unique Combo in range found by iteration=0, rank=23, k=3[-20709.720703, 14424.849609, 6284.870117]
+Total combinations found by rank=23, k=3: 1
+Total combinations found by rank=21, iteration=0: 2
+Unique Combo in range found by iteration=0, rank=23, k=5[-23709.939453, 21828.730469, 1876.969971, 1.860000, 1.650000]
+Total combinations found by rank=23, k=5: 5
+Unique Combo in range found by iteration=0, rank=23, k=6[23691.970703, -22275.330078, -21323.029297, 16275.639648, 3629.360107, 1.250000]
+Total combinations found by rank=23, k=6: 13
+Total combinations found by rank=23, k=7: 55
+Total combinations found by rank=23, k=8: 100
+Total combinations found by rank=23, k=9: 259
+Total combinations found by rank=23, k=10: 605
+Total combinations found by rank=23, k=11: 1064
+Total combinations found by rank=23, k=12: 1748
+Total combinations found by rank=23, k=13: 2408
+Total combinations found by rank=23, iteration=0: 6258
+Iteration=0 - unique combinations found=4 - New File size=338
+Iteration=1 - unique combinations found=0 - New File size=338
+Iteration=2 - unique combinations found=0 - New File size=338
+Iteration=3 - unique combinations found=0 - New File size=338
+Iteration=4 - unique combinations found=0 - New File size=338
+Iteration=5 - unique combinations found=0 - New File size=338
+Iteration=6 - unique combinations found=0 - New File size=338
+Iteration=7 - unique combinations found=0 - New File size=338
+Iteration=8 - unique combinations found=0 - New File size=338
+Iteration=9 - unique combinations found=0 - New File size=338
+Iteration=10 - unique combinations found=0 - New File size=338
+Iteration=11 - unique combinations found=0 - New File size=338
+Iteration=12 - unique combinations found=0 - New File size=338
+Iteration=13 - unique combinations found=0 - New File size=338
+Iteration=14 - unique combinations found=0 - New File size=338
+Iteration=15 - unique combinations found=0 - New File size=338
+Iteration=16 - unique combinations found=0 - New File size=338
+Iteration=17 - unique combinations found=0 - New File size=338
+Iteration=18 - unique combinations found=0 - New File size=338
+Iteration=19 - unique combinations found=0 - New File size=338
+Unique Combo in range found by iteration=20, rank=20, k=7[-321230.406250, 320828.250000, 115459.703125, -323195.500000, -657943.937500, 155135.875000, 710946.875000]
+Total combinations found by rank=20, k=7: 1
+Total combinations found by rank=20, iteration=20: 1
+Iteration=20 - unique combinations found=1 - New File size=331
+Unique Combo in range found by iteration=21, rank=23, k=9[83446.039062, -2710412.750000, 2658013.000000, -7530485.500000, 487624.843750, -493535.031250, 11988014.000000, -611725.500000, -3870939.750000]
+Total combinations found by rank=23, k=9: 2
+Total combinations found by rank=23, k=10: 1
+Total combinations found by rank=23, k=11: 1

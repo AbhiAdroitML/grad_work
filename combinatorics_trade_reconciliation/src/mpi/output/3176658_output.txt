@@ -1,0 +1,153 @@
+Unique Combo in range found by iteration=0, rank=10, k=2[-98618.726562, 98618.570312]
+Total combinations found by rank=10, k=2: 2
+Unique Combo in range found by iteration=0, rank=11, k=3[-39560.601562, 39467.019531, 93.589996]
+Unique Combo in range found by iteration=0, rank=11, k=3[-20709.720703, 14424.849609, 6284.870117]
+Total combinations found by rank=11, k=3: 2
+Total combinations found by rank=11, k=4: 1
+Unique Combo in range found by iteration=0, rank=11, k=5[-23709.939453, 21828.730469, 1876.969971, 1.860000, 1.650000]
+Total combinations found by rank=11, k=5: 6
+Unique Combo in range found by iteration=0, rank=5, k=6[2353117.500000, -2308347.000000, 2117875.000000, -1975281.250000, -1950411.000000, 1763047.500000]
+Total combinations found by rank=5, k=6: 1
+Unique Combo in range found by iteration=0, rank=4, k=6[3913002.250000, -3908057.250000, -3870939.750000, 3746345.250000, 3607712.750000, -3488063.000000]
+Total combinations found by rank=4, k=6: 1
+Unique Combo in range found by iteration=0, rank=8, k=6[-414797.406250, -378119.968750, 377809.718750, 376840.375000, 361461.937500, -323195.500000]
+Total combinations found by rank=8, k=6: 1
+Unique Combo in range found by iteration=0, rank=11, k=6[-26532.089844, 23691.970703, 23629.699219, -22275.330078, 3629.360107, -2144.520020]
+Total combinations found by rank=11, k=6: 16
+Unique Combo in range found by iteration=0, rank=10, k=7[-130389.320312, 129878.742188, 126980.789062, -83169.960938, 74039.742188, -67369.812500, -49969.378906]
+Total combinations found by rank=10, k=7: 2
+Unique Combo in range found by iteration=0, rank=9, k=7[227877.734375, 216043.500000, -163470.812500, -161944.703125, 161309.953125, -146499.406250, -133315.734375]
+Total combinations found by rank=9, k=7: 1
+Unique Combo in range found by iteration=0, rank=10, k=8[-115658.718750, 115459.703125, -89095.468750, 83446.039062, 65416.589844, -59740.601562, 50966.519531, -50794.031250]
+Unique Combo in range found by iteration=0, rank=6, k=8[-1388488.750000, 1271428.500000, 1162730.125000, -1076043.750000, 1018776.687500, -912531.812500, -894827.812500, 818956.000000]
+Total combinations found by rank=10, k=8: 13
+Total combinations found by rank=6, k=8: 4
+Unique Combo in range found by iteration=0, rank=7, k=8[-757091.187500, 756365.062500, 710946.875000, -651718.750000, -610855.875000, 554117.750000, -521225.875000, 519462.000000]
+Unique Combo in range found by iteration=0, rank=9, k=8[-239283.796875, 233067.593750, 195762.109375, -174802.625000, -174802.375000, 162948.625000, -142371.421875, 139482.125000]
+Total combinations found by rank=9, k=8: 12
+Total combinations found by rank=7, k=8: 3
+Total combinations found by rank=8, k=8: 1
+Total combinations found by rank=11, k=7: 93
+Total combinations found by rank=10, k=9: 23
+Total combinations found by rank=6, k=9: 2
+Total combinations found by rank=5, k=9: 1
+Unique Combo in range found by iteration=0, rank=8, k=9[-482313.187500, -475259.968750, -471259.375000, 414399.562500, 384772.750000, 365354.062500, -321230.406250, 295905.937500, 289631.218750]
+Total combinations found by rank=9, k=9: 4
+Total combinations found by rank=8, k=9: 12
+Total combinations found by rank=11, k=8: 222
+Unique Combo in range found by iteration=0, rank=0, k=10[-30923658.000000, 28868386.000000, 22965132.000000, -21781276.000000, 21199382.000000, -20496362.000000, -18247804.000000, 18176272.000000, 18139226.000000, -17899298.000000]
+Unique Combo in range found by iteration=0, rank=1, k=10[17620160.000000, 17315408.000000, -16725798.000000, -16454284.000000, 16210717.000000, -15739777.000000, -15447025.000000, 13666995.000000, -12422205.000000, 11975810.000000]
+Unique Combo in range found by iteration=0, rank=2, k=10[-11444040.000000, 10715263.000000, -10186395.000000, 9580696.000000, 9542208.000000, 9512908.000000, -9480716.000000, -8808925.000000, 8527443.000000, -7958442.500000]
+Total combinations found by rank=1, k=10: 1
+Total combinations found by rank=0, k=10: 2
+Total combinations found by rank=10, k=10: 61
+Unique Combo in range found by iteration=0, rank=4, k=10[-4349034.500000, 3932341.000000, -3871955.000000, 3609939.750000, 3596665.250000, 3474389.750000, -3276636.250000, -3183148.500000, 3122849.500000, -3055411.000000]
+Total combinations found by rank=2, k=10: 3
+Total combinations found by rank=6, k=10: 8
+Total combinations found by rank=4, k=10: 4
+Total combinations found by rank=5, k=10: 2
+Unique Combo in range found by iteration=0, rank=7, k=10[792217.187500, 756380.875000, -685094.437500, -657943.937500, -649874.187500, -611725.500000, 588059.062500, -585158.750000, 537035.812500, 516104.468750]
+Unique Combo in range found by iteration=0, rank=3, k=10[-7456188.500000, 7254055.500000, 6721622.000000, 6505188.000000, -6480091.500000, -5757050.000000, -5740348.500000, 4972296.000000, -4970135.000000, 4950652.000000]
+Total combinations found by rank=7, k=10: 16
+Total combinations found by rank=3, k=10: 3
+Total combinations found by rank=9, k=10: 33
+Total combinations found by rank=8, k=10: 2
+Total combinations found by rank=0, k=11: 1
+Total combinations found by rank=10, k=11: 101
+Total combinations found by rank=6, k=11: 6
+Total combinations found by rank=5, k=11: 8
+Total combinations found by rank=9, k=11: 47
+Total combinations found by rank=8, k=11: 51
+Total combinations found by rank=11, k=9: 637
+Total combinations found by rank=1, k=12: 1
+Total combinations found by rank=10, k=12: 146
+Total combinations found by rank=2, k=12: 1
+Total combinations found by rank=6, k=12: 24
+Total combinations found by rank=4, k=12: 13
+Total combinations found by rank=5, k=12: 5
+Total combinations found by rank=7, k=12: 25
+Total combinations found by rank=3, k=12: 3
+Total combinations found by rank=9, k=12: 50
+Total combinations found by rank=8, k=12: 9
+Total combinations found by rank=10, k=13: 185
+Total combinations found by rank=6, k=13: 11
+Total combinations found by rank=5, k=13: 4
+Total combinations found by rank=7, k=13: 1
+Total combinations found by rank=9, k=13: 76
+Total combinations found by rank=8, k=13: 82
+Total combinations found by rank=11, k=10: 1661
+Total combinations found by rank=1, k=14: 1
+Total combinations found by rank=10, k=14: 202
+Total combinations found by rank=2, k=14: 2
+Total combinations found by rank=6, k=14: 31
+Total combinations found by rank=4, k=14: 18
+Total combinations found by rank=5, k=14: 3
+Total combinations found by rank=7, k=14: 33
+Total combinations found by rank=3, k=14: 3
+Total combinations found by rank=9, k=14: 47
+Total combinations found by rank=8, k=14: 21
+Total combinations found by rank=1, k=15: 1
+Total combinations found by rank=0, k=15: 1
+Total combinations found by rank=10, k=15: 186
+Total combinations found by rank=2, k=15: 3
+Total combinations found by rank=6, k=15: 19
+Unique Combo in range found by iteration=0, rank=5, k=15[2859016.000000, 2843942.750000, -2803059.250000, 2801721.750000, -2710412.750000, 2658013.000000, -2111874.250000, 1961746.000000, -1931818.875000, -1909137.875000, -1759485.875000, -1661895.250000, 1651407.625000, 1648615.375000, -1536778.750000]
+Total combinations found by rank=5, k=15: 13
+Total combinations found by rank=9, k=15: 79
+Total combinations found by rank=8, k=15: 67
+Total combinations found by rank=1, k=16: 3
+Total combinations found by rank=0, k=16: 1
+Total combinations found by rank=10, k=16: 131
+Total combinations found by rank=6, k=16: 21
+Total combinations found by rank=2, k=16: 3
+Total combinations found by rank=4, k=16: 17
+Total combinations found by rank=5, k=16: 2
+Total combinations found by rank=7, k=16: 21
+Total combinations found by rank=3, k=16: 1
+Total combinations found by rank=9, k=16: 19
+Total combinations found by rank=8, k=16: 42
+Total combinations found by rank=10, k=17: 111
+Total combinations found by rank=6, k=17: 19
+Total combinations found by rank=5, k=17: 3
+Total combinations found by rank=7, k=17: 1
+Total combinations found by rank=9, k=17: 60
+Total combinations found by rank=8, k=17: 52
+Total combinations found by rank=1, k=18: 1
+Total combinations found by rank=0, k=18: 1
+Total combinations found by rank=10, k=18: 65
+Total combinations found by rank=6, k=18: 8
+Total combinations found by rank=4, k=18: 4
+Total combinations found by rank=5, k=18: 3
+Total combinations found by rank=7, k=18: 11
+Total combinations found by rank=10, k=19: 39
+Total combinations found by rank=9, k=18: 8
+Total combinations found by rank=6, k=19: 10
+Total combinations found by rank=8, k=18: 30
+Total combinations found by rank=2, k=19: 1
+Total combinations found by rank=1, k=20: 1
+Total combinations found by rank=10, k=20: 23
+Total combinations found by rank=10, k=21: 3
+Total combinations found by rank=2, k=20: 2
+Total combinations found by rank=4, k=20: 1
+Total combinations found by rank=10, k=22: 3
+Total combinations found by rank=6, k=21: 2
+Total combinations found by rank=7, k=20: 2
+Total combinations found by rank=10, k=23: 1
+Total combinations found by rank=9, k=19: 20
+Total combinations found by rank=8, k=19: 7
+Total combinations found by rank=5, k=21: 1
+Total combinations found by rank=1, iteration=0: 9
+Total combinations found by rank=0, iteration=0: 6
+Total combinations found by rank=8, k=20: 10
+Total combinations found by rank=10, iteration=0: 1297
+Total combinations found by rank=9, k=21: 2
+Total combinations found by rank=6, iteration=0: 165
+Total combinations found by rank=2, iteration=0: 15
+Total combinations found by rank=4, iteration=0: 58
+Total combinations found by rank=8, k=22: 5
+Total combinations found by rank=5, iteration=0: 46
+Total combinations found by rank=7, iteration=0: 113
+Total combinations found by rank=3, iteration=0: 10
+Total combinations found by rank=9, iteration=0: 458
+Total combinations found by rank=8, iteration=0: 392
+Total combinations found by rank=11, k=11: 3390

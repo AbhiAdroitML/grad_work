@@ -1,0 +1,115 @@
+Unique Combo in range found by iteration=0, rank=18, k=2[-98618.726562, 98618.570312]
+Total combinations found by rank=18, k=2: 2
+Unique Combo in range found by iteration=0, rank=15, k=6[-414797.406250, -378119.968750, 377809.718750, 376840.375000, 361461.937500, -323195.500000]
+Total combinations found by rank=15, k=6: 1
+Unique Combo in range found by iteration=0, rank=21, k=6[-10821.919922, 10647.179688, 168.520004, 1.860000, 1.860000, 1.650000]
+Total combinations found by rank=21, k=6: 2
+Unique Combo in range found by iteration=0, rank=17, k=8[-174802.625000, -163179.406250, 162948.625000, 162910.406250, -161944.703125, 161302.437500, 155135.875000, -142371.421875]
+Total combinations found by rank=17, k=8: 3
+Total combinations found by rank=21, k=7: 6
+Total combinations found by rank=18, iteration=0: 2
+Total combinations found by rank=15, iteration=0: 1
+Total combinations found by rank=17, iteration=0: 3
+Total combinations found by rank=21, iteration=0: 8
+Iteration=0 - unique combinations found=4 - New File size=332
+Iteration=1 - unique combinations found=0 - New File size=332
+Iteration=2 - unique combinations found=0 - New File size=332
+Iteration=3 - unique combinations found=0 - New File size=332
+Iteration=4 - unique combinations found=0 - New File size=332
+Iteration=5 - unique combinations found=0 - New File size=332
+Iteration=6 - unique combinations found=0 - New File size=332
+Iteration=7 - unique combinations found=0 - New File size=332
+Iteration=8 - unique combinations found=0 - New File size=332
+Iteration=9 - unique combinations found=0 - New File size=332
+Iteration=10 - unique combinations found=0 - New File size=332
+Iteration=11 - unique combinations found=0 - New File size=332
+Iteration=12 - unique combinations found=0 - New File size=332
+Iteration=13 - unique combinations found=0 - New File size=332
+Iteration=14 - unique combinations found=0 - New File size=332
+Iteration=15 - unique combinations found=0 - New File size=332
+Iteration=16 - unique combinations found=0 - New File size=332
+Iteration=17 - unique combinations found=0 - New File size=332
+Unique Combo in range found by iteration=18, rank=13, k=7[3000852.000000, -49969.378906, -22888494.000000, 1131.810059, 3607712.750000, 16503570.000000, -174802.375000]
+Total combinations found by rank=13, k=7: 1
+Total combinations found by rank=13, iteration=18: 1
+Iteration=18 - unique combinations found=1 - New File size=325
+Unique Combo in range found by iteration=19, rank=21, k=8[-964876.000000, -2150.239990, -3786727.500000, 3932341.000000, -74006.382812, 516104.468750, 554117.750000, -174802.109375]
+Total combinations found by rank=21, k=8: 5
+Total combinations found by rank=21, k=9: 3
+Total combinations found by rank=21, k=10: 4
+Total combinations found by rank=21, k=11: 2
+Total combinations found by rank=21, k=12: 16
+Total combinations found by rank=21, k=13: 11
+Total combinations found by rank=21, iteration=19: 41
+Iteration=19 - unique combinations found=1 - New File size=317
+Iteration=20 - unique combinations found=0 - New File size=317
+Unique Combo in range found by iteration=21, rank=21, k=8[-471259.375000, -836662.375000, 227877.734375, -2308347.000000, 205886.546875, -73788.632812, -146499.406250, 3402792.750000]
+Total combinations found by rank=21, k=8: 1
+Total combinations found by rank=21, iteration=21: 1
+Iteration=21 - unique combinations found=1 - New File size=309
+Iteration=22 - unique combinations found=0 - New File size=309
+Unique Combo in range found by iteration=23, rank=2, k=6[-16454284.000000, -912531.812500, 3918889.500000, 818956.000000, 289631.218750, 12339339.000000]
+Total combinations found by rank=2, k=6: 1
+Total combinations found by rank=2, iteration=23: 1
+Iteration=23 - unique combinations found=1 - New File size=303
+Unique Combo in range found by iteration=24, rank=21, k=8[792217.187500, 295905.937500, -10150360.000000, -5814746.500000, 142616.812500, 48595.089844, 13666995.000000, 1018776.687500]
+Total combinations found by rank=21, k=8: 1
+Total combinations found by rank=21, k=11: 1
+Total combinations found by rank=21, k=12: 1
+Total combinations found by rank=21, iteration=24: 3
+Iteration=24 - unique combinations found=1 - New File size=295
+Iteration=25 - unique combinations found=0 - New File size=295
+Iteration=26 - unique combinations found=0 - New File size=295
+Unique Combo in range found by iteration=27, rank=21, k=9[-3787149.000000, 23629.699219, -8963830.000000, -196560.734375, -1759485.875000, 11260030.000000, 2859016.000000, -23709.939453, 588059.062500]
+Total combinations found by rank=21, k=9: 1
+Total combinations found by rank=21, iteration=27: 1
+Iteration=27 - unique combinations found=1 - New File size=286
+Iteration=28 - unique combinations found=0 - New File size=286
+Iteration=29 - unique combinations found=0 - New File size=286
+Iteration=30 - unique combinations found=0 - New File size=286
+Iteration=31 - unique combinations found=0 - New File size=286
+Iteration=32 - unique combinations found=0 - New File size=286
+Iteration=33 - unique combinations found=0 - New File size=286
+Iteration=34 - unique combinations found=0 - New File size=286
+Iteration=35 - unique combinations found=0 - New File size=286
+Iteration=36 - unique combinations found=0 - New File size=286
+Iteration=37 - unique combinations found=0 - New File size=286
+Iteration=38 - unique combinations found=0 - New File size=286
+Iteration=39 - unique combinations found=0 - New File size=286
+Iteration=40 - unique combinations found=0 - New File size=286
+Iteration=41 - unique combinations found=0 - New File size=286
+Iteration=42 - unique combinations found=0 - New File size=286
+Iteration=43 - unique combinations found=0 - New File size=286
+Iteration=44 - unique combinations found=0 - New File size=286
+Iteration=45 - unique combinations found=0 - New File size=286
+Iteration=46 - unique combinations found=0 - New File size=286
+Unique Combo in range found by iteration=47, rank=10, k=3[4950652.000000, -4972297.500000, 21645.330078]
+Total combinations found by rank=10, k=3: 1
+Total combinations found by rank=10, iteration=47: 1
+Iteration=47 - unique combinations found=1 - New File size=283
+Unique Combo in range found by iteration=48, rank=21, k=9[-493535.031250, 115459.703125, -1076043.750000, 83446.039062, -115658.718750, 756365.062500, 30996788.000000, 656837.500000, -30923658.000000]
+Total combinations found by rank=21, k=9: 1
+Total combinations found by rank=21, k=10: 1
+Total combinations found by rank=21, k=11: 1
+Total combinations found by rank=21, iteration=48: 3
+Iteration=48 - unique combinations found=1 - New File size=274
+Iteration=49 - unique combinations found=0 - New File size=274
+Iteration=50 - unique combinations found=0 - New File size=274
+Iteration=51 - unique combinations found=0 - New File size=274
+Iteration=52 - unique combinations found=0 - New File size=274
+Iteration=53 - unique combinations found=0 - New File size=274
+Iteration=54 - unique combinations found=0 - New File size=274
+Iteration=55 - unique combinations found=0 - New File size=274
+Iteration=56 - unique combinations found=0 - New File size=274
+Iteration=57 - unique combinations found=0 - New File size=274
+Iteration=58 - unique combinations found=0 - New File size=274
+Iteration=59 - unique combinations found=0 - New File size=274
+Iteration=60 - unique combinations found=0 - New File size=274
+Unique Combo in range found by iteration=61, rank=21, k=11[-7261940.000000, -1046244.125000, -7530485.500000, 3609939.750000, 24585.230469, 16848.160156, 3122849.500000, 4972296.000000, 2658013.000000, -954610.937500, 2388749.500000]
+Total combinations found by rank=21, k=11: 1
+Total combinations found by rank=21, iteration=61: 1
+Iteration=61 - unique combinations found=1 - New File size=263
+Iteration=62 - unique combinations found=0 - New File size=263
+Unique Combo in range found by iteration=63, rank=21, k=7[685246.562500, -30634656.000000, 320828.250000, -436421.250000, -4349034.500000, 30633944.000000, 3780093.000000]
+Total combinations found by rank=21, k=7: 1
+Total combinations found by rank=21, k=8: 1

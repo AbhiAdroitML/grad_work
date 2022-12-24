@@ -1,0 +1,29 @@
+Unique Combo in range found by iteration=0, rank=14, k=2[-98618.726562, 98618.570312]
+Total combinations found by rank=14, k=2: 2
+Unique Combo in range found by iteration=0, rank=16, k=3[-20709.720703, 14424.849609, 6284.870117]
+Total combinations found by rank=16, k=3: 1
+Unique Combo in range found by iteration=0, rank=12, k=6[-414797.406250, -378119.968750, 377809.718750, 376840.375000, 361461.937500, -323195.500000]
+Total combinations found by rank=12, k=6: 1
+Unique Combo in range found by iteration=0, rank=6, k=6[3913002.250000, -3908057.250000, -3870939.750000, 3746345.250000, 3607712.750000, -3488063.000000]
+Total combinations found by rank=6, k=6: 1
+Unique Combo in range found by iteration=0, rank=16, k=5[-23709.939453, 21828.730469, 1876.969971, 1.860000, 1.650000]
+Total combinations found by rank=16, k=5: 5
+Total combinations found by rank=14, k=9: 1
+Unique Combo in range found by iteration=0, rank=15, k=10[-95994.500000, 89714.046875, 83446.039062, -83169.960938, -67369.812500, 65416.589844, 50966.519531, -49969.378906, 48595.089844, -41635.078125]
+Total combinations found by rank=15, k=10: 1
+Total combinations found by rank=14, k=11: 1
+Unique Combo in range found by iteration=0, rank=9, k=12[1018776.687500, -999626.437500, -964876.000000, -931408.250000, 931065.187500, 928718.312500, 921421.562500, -912531.812500, 912068.625000, -904594.375000, 895814.187500, -894827.812500]
+Total combinations found by rank=9, k=12: 1
+Total combinations found by rank=14, iteration=0: 4
+Total combinations found by rank=15, iteration=0: 1
+Total combinations found by rank=9, iteration=0: 1
+Total combinations found by rank=6, iteration=0: 1
+Total combinations found by rank=12, iteration=0: 1
+Unique Combo in range found by iteration=0, rank=16, k=6[-26532.089844, 23691.970703, 23629.699219, -22275.330078, 3629.360107, -2144.520020]
+Total combinations found by rank=16, k=6: 14
+Total combinations found by rank=16, k=7: 67
+Total combinations found by rank=16, k=8: 150
+Total combinations found by rank=16, k=9: 467
+Total combinations found by rank=16, k=10: 1077
+Total combinations found by rank=16, k=11: 2060
+Total combinations found by rank=16, k=12: 3795
