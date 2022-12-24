@@ -1,0 +1,2 @@
+Python programming language version 3.9.8 loaded.
+slurmstepd: error: *** JOB 3159629 ON c77 CANCELLED AT 2022-12-03T07:37:24 DUE TO TIME LIMIT ***

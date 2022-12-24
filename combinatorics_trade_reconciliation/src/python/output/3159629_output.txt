@@ -1,0 +1,106 @@
+Number of trades in file: 354, Unique:352
+Unique 1: (-98618.73, 98618.57),sum = -0.16
+Total combinations until now: 1, Time Elapsed: 0.06057333946228027
+Unique 2: (-30634655.34, -954610.95, 31589265.69),sum = -0.6
+Total combinations until now: 3, Time Elapsed: 0.11208653450012207
+Unique 3: (-9367346.88, -8808925.07, 18176271.74),sum = -0.21
+Total combinations until now: 4, Time Elapsed: 0.8702247142791748
+Unique 4: (-4990932.48, -610855.86, 5601788.37),sum = 0.03
+Total combinations until now: 6, Time Elapsed: 1.1370840072631836
+Unique 5: (-4972297.35, 1.25, 4972295.99),sum = -0.11
+Total combinations until now: 7, Time Elapsed: 1.154008150100708
+Unique 6: (-999626.45, 13302.9, 986323.59),sum = 0.04
+Total combinations until now: 13, Time Elapsed: 1.4975559711456299
+Unique 7: (-998804.2, -20709.72, 1019513.92),sum = 0.0
+Total combinations until now: 14, Time Elapsed: 1.507106065750122
+Unique 8: (-562660.35, 10647.18, 552013.18),sum = 0.01
+Total combinations until now: 16, Time Elapsed: 1.6888573169708252
+Unique 9: (-304505.11, 98618.59, 205886.54),sum = 0.02
+Total combinations until now: 18, Time Elapsed: 1.808298110961914
+Unique 10: (-163179.41, 1876.97, 161302.43),sum = -0.01
+Total combinations until now: 19, Time Elapsed: 1.86185884475708
+Unique 11: (-39560.6, 93.59, 39467.02),sum = 0.01
+Total combinations until now: 20, Time Elapsed: 2.0135903358459473
+Unique 12: (-17142697.3, -142371.42, 8484754.28, 8800315.12),sum = 0.68
+Total combinations until now: 23, Time Elapsed: 32.74759912490845
+Unique 13: (-16725797.68, 912068.6, 3474389.64, 12339338.83),sum = -0.61
+Total combinations until now: 24, Time Elapsed: 36.782745599746704
+Unique 14: (-10671796.62, -894827.83, 306594.92, 11260029.69),sum = 0.16
+Total combinations until now: 25, Time Elapsed: 62.62562441825867
+Unique 15: (-7766724.47, -1975281.26, 161309.95, 9580696.22),sum = 0.44
+Total combinations until now: 28, Time Elapsed: 80.10933113098145
+Unique 16: (-5757049.86, 209761.53, 596636.54, 4950651.92),sum = 0.13
+Total combinations until now: 32, Time Elapsed: 95.5973870754242
+Unique 17: (-4970134.96, -484058.51, 1535304.89, 3918889.55),sum = 0.97
+Total combinations until now: 33, Time Elapsed: 101.22829580307007
+Unique 18: (-3870939.81, 1131.81, 89714.05, 3780093.06),sum = -0.89
+Total combinations until now: 37, Time Elapsed: 107.4817886352539
+Unique 19: (-3411464.71, -163470.82, -21730.47, 3596665.33),sum = -0.67
+Total combinations until now: 38, Time Elapsed: 112.82982730865479
+Unique 20: (-2710412.7, -73788.63, -59740.6, 2843942.73),sum = 0.8
+Total combinations until now: 40, Time Elapsed: 118.28281688690186
+Unique 21: (-2308346.95, -651718.75, -649874.16, 3609939.87),sum = 0.01
+Total combinations until now: 41, Time Elapsed: 119.00663948059082
+Unique 22: (-1966689.75, 16848.16, 931065.2, 1018776.71),sum = 0.32
+Total combinations until now: 43, Time Elapsed: 122.56201195716858
+Unique 23: (-1856996.66, -685221.39, 23629.7, 2518589.0),sum = 0.65
+Total combinations until now: 45, Time Elapsed: 125.95962500572205
+Unique 24: (-1661895.3, -99006.68, -2144.52, 1763047.48),sum = 0.98
+Total combinations until now: 46, Time Elapsed: 128.18233942985535
+Unique 25: (-842494.4, 1040.91, 320828.24, 520624.41),sum = -0.84
+Total combinations until now: 53, Time Elapsed: 140.61859130859375
+Unique 26: (-611725.48, -127807.92, 129878.74, 609655.26),sum = 0.6
+Total combinations until now: 63, Time Elapsed: 146.64602518081665
+Unique 27: (-321230.4, 3629.36, 65416.59, 252184.45),sum = -0.0
+Total combinations until now: 73, Time Elapsed: 157.58966326713562
+Unique 28: (-89095.47, -26532.09, 168.52, 115459.7),sum = 0.66
+Total combinations until now: 79, Time Elapsed: 168.15024399757385
+Unique 29: (-30923658.2, -1931818.84, 8066677.9, 8413476.19, 16375323.93),sum = 0.98
+Total combinations until now: 82, Time Elapsed: 312.5655972957611
+Unique 30: (-28616502.35, 2388749.58, 6505187.91, 7734551.18, 11988013.53),sum = -0.15
+Total combinations until now: 98, Time Elapsed: 739.4402241706848
+Unique 31: (-27106874.88, -71415.85, 6284.87, 4349417.52, 22822588.77),sum = 0.43
+Total combinations until now: 101, Time Elapsed: 897.097891330719
+Unique 32: (-24562365.87, -24132716.1, 9542208.19, 10284487.28, 28868385.85),sum = -0.65
+Total combinations until now: 102, Time Elapsed: 920.5796136856079
+Unique 33: (-22888493.05, -12422205.29, 139482.13, 4537273.21, 30633943.22),sum = 0.22
+Total combinations until now: 122, Time Elapsed: 1309.0628402233124
+Unique 34: (-22711587.46, -11691104.08, 21645.33, 3913002.2, 30468044.92),sum = 0.91
+Total combinations until now: 135, Time Elapsed: 1485.5125291347504
+Unique 35: (-20496362.9, -3055411.02, -239283.79, 7254055.46, 16537003.05),sum = 0.8
+Total combinations until now: 151, Time Elapsed: 1880.133680343628
+Unique 36: (-19495488.26, -14610372.81, -196560.74, 3305634.86, 30996787.72),sum = 0.77
+Total combinations until now: 164, Time Elapsed: 1976.8903579711914
+Unique 37: (-19057230.67, -5814746.26, -836662.36, 3000852.04, 22707786.53),sum = -0.72
+Total combinations until now: 181, Time Elapsed: 2350.2355194091797
+Unique 38: (-18247803.53, -1909137.91, -912531.81, 384772.75, 20684701.23),sum = 0.73
+Total combinations until now: 196, Time Elapsed: 2541.0414197444916
+Unique 39: (-17899298.8, -3787148.99, -49969.38, 537035.82, 21199381.09),sum = -0.26
+Total combinations until now: 203, Time Elapsed: 2683.346608400345
+Unique 40: (-16808663.86, -9607093.74, -521225.88, 2658012.94, 24278969.86),sum = -0.68
+Total combinations until now: 233, Time Elapsed: 2955.5528955459595
+Unique 41: (-16454283.73, -7530485.37, -1046244.11, 8527443.0, 16503570.36),sum = 0.15
+Total combinations until now: 269, Time Elapsed: 3276.0518820285797
+Unique 42: (-15739777.33, -436421.24, -50794.03, 16275.64, 16210717.05),sum = 0.09
+Total combinations until now: 323, Time Elapsed: 3789.7826342582703
+Unique 43: (-15447025.25, -1536778.79, -1388488.8, 233067.6, 18139225.97),sum = 0.73
+Total combinations until now: 337, Time Elapsed: 3909.1042318344116
+Unique 44: (-12953024.78, -5873526.2, 203629.2, 685246.54, 17937675.52),sum = 0.28
+Total combinations until now: 365, Time Elapsed: 4159.220565080643
+Unique 45: (-12707000.46, -146499.4, 289631.21, 588059.05, 11975809.96),sum = 0.36
+Total combinations until now: 402, Time Elapsed: 4508.790599107742
+Unique 46: (-12030151.35, -9480715.65, -41635.08, 3932340.96, 17620160.69),sum = -0.43
+Total combinations until now: 419, Time Elapsed: 4690.331838130951
+Unique 47: (-11444040.1, 23691.97, 636011.62, 1271428.53, 9512908.22),sum = 0.24
+Total combinations until now: 473, Time Elapsed: 5199.9952692985535
+Unique 48: (-11063196.26, -6480091.58, 1.65, 227877.74, 17315408.79),sum = 0.34
+Total combinations until now: 477, Time Elapsed: 5238.253137350082
+Unique 49: (-10186394.77, -7958442.71, -4349034.41, -471259.38, 22965132.11),sum = 0.84
+Total combinations until now: 523, Time Elapsed: 5481.513732671738
+Unique 50: (-9069472.48, -657943.91, -95994.5, 756365.05, 9067045.85),sum = 0.01
+Total combinations until now: 672, Time Elapsed: 6275.280240058899
+Unique 51: (-8967805.0, -67369.81, -6865.41, 921421.59, 8120619.26),sum = 0.63
+Total combinations until now: 706, Time Elapsed: 6416.975480556488
+Unique 52: (-8963830.42, 14424.85, 928718.3, 1299064.73, 6721621.78),sum = -0.76
+Total combinations until now: 724, Time Elapsed: 6542.539429187775
+Unique 53: (-7741963.52, -63976.74, 174961.37, 376840.37, 7254137.62),sum = -0.9
