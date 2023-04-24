@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    
+<head>
+  <meta charset="UTF-8">
+  <title>Semantic Search</title>
+  <style>
+        .table {
+          font-family: Arial, sans-serif;
+          border-collapse: collapse;
+          width: 100%;
+        }
+        .table td, .table th {
+          border: 1px solid #ddd;
+          padding: 8px;
+        }
+        .table tr:nth-child(even) {
+          background-color: #f2f2f2;
+        }
+        .table th {
+          padding-top: 12px;
+          padding-bottom: 12px;
+          text-align: left;
+          background-color: #4CAF50;
+          color: white;
+        }
+  </style>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+  <link type="text/css" rel="stylesheet" href="{{ url_for('static', filename='./style.css') }}">
+  
+</head>
+
+<body>
+ <div class="login">
+	<h1>Search Duchas School Collection</h1>
+
+     <!-- Form to enter new data for predictions  -->
+    <form action="{{ url_for('search_api')}}"method="POST">
+      <input type="text" name="Query Text" placeholder="Query" required="required" /><br>
+        <button type="submit" class="btn btn-primary btn-block btn-large">Search</button>
+    </form>
+
+   <br>
+   <br>
+  
+   
+ </div>
+ 
+
+</body>
+</html>
